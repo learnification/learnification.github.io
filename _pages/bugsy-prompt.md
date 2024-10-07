@@ -7,10 +7,10 @@ nav: true
 nav_order: 3
 ---
 
-
 Prompt Engineering has become one of the latest trends in the field of AI, thanks to the recent advancement in generative models. In order to improve the interaction and engagement of students with the learning material, we have developed an AI wrapper called BugsyPrompt. While Bugsy is not a full-fledged chatbot, it is a simple wrapper/base-prompt that can be used to set the scene for a more interactive learning experience.
 
 ## Features
+
 - **Personalized Learning**: Bugsy can adjust to different student levels (e.g. CS1 --> Graduate level).
 - **Engaging Communication Styles**: Bugsy’s communication and conversation style can be customized.
 - **Commands for Active Learning**: Bugsy offers a variety of commands to assist with learning:
@@ -28,12 +28,12 @@ Prompt Engineering has become one of the latest trends in the field of AI, thank
 
 ## Usage 💡
 
-To get started, choose the appropriate `BugsyPrompt` version from below and copy/paste it into your AI model as the first prompt. You can then interact with Bugsy by issuing commands in the chat interface. 
+To get started, choose the appropriate `BugsyPrompt` version from below and copy/paste it into your AI model as the first prompt. You can then interact with Bugsy by issuing commands in the chat interface.
 
-##  Available Bugsies 🪲
+## Available Bugsies 🪲
 
 - [BugsyPrompt for Software Engineering](https://raw.githubusercontent.com/learnification/bugsy-prompt/refs/heads/main/BugsyPrompt-SE.md)
-- [BugsyPrompt for Human Computer Interaction](https://raw.githubusercontent.com/learnification/bugsy-prompt/refs/heads/main/BugsyPrompt-HCI.md) 
+- [BugsyPrompt for Human Computer Interaction](https://raw.githubusercontent.com/learnification/bugsy-prompt/refs/heads/main/BugsyPrompt-HCI.md)
 
 ## Disclaimer ⚠️
 

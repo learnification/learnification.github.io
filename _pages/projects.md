@@ -9,7 +9,6 @@ nav_order: 2
 
 ## Co-pilot Grading Tool <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/react.svg" width="50" height="50">
 
-
 The Copilot Grading Tool (CGT) is a web plugin designed to assist teachers and teaching assistants in grading student work more efficiently. Powered by advanced Large Language Models (LLMs), the tool analyzes student submissions and delivers detailed feedback aligned with the instructor’s grading rubric. CGT is built to seamlessly integrate with widely-used learning management systems (LMS) such as Canvas, ensuring easy incorporation into existing workflows.
 
 The priority of CGT is ensuring privacy, ethical, and responsible use of AI. The tool anonymizes all student submissions before processing and does not store any student data on remote servers.
@@ -52,7 +51,7 @@ The project focus is on fine-turning the LLM-based question generation system wi
 
 ## Version-wise: Learning Git Made Fun
 
-[LearningGitBranching](https://learngitbranching.js.org/) is a web-based platform that provides an interactive and engaging way to learn Git. The platform offers a variety of commands and challenges to help students understand the fundamentals of Git, such as branching, merging, and rebasing. 
+[LearningGitBranching](https://learngitbranching.js.org/) is a web-based platform that provides an interactive and engaging way to learn Git. The platform offers a variety of commands and challenges to help students understand the fundamentals of Git, such as branching, merging, and rebasing.
 
 One of the limitations of the platform is the lacks of personalized learning features. As part of this project, we are exploring the integration of Large Language Models (LLMs) to provide personalized feedback and hints to students based on their progress and performance. The goal is to improve the learning experience and effectiveness of the platform by tailoring the content to individual student needs.
 
@@ -60,4 +59,4 @@ One of the limitations of the platform is the lacks of personalized learning fea
 
 ### Technology Stack
 
-Most, if not all, of our projects are built using MERN stack (MySQL, Express.js, React, Node.js). 
+Most, if not all, of our projects are built using MERN stack (MySQL, Express.js, React, Node.js).

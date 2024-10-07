@@ -9,18 +9,15 @@ nav_order: 3
 
 ## Principal Investigator
 
+<img src="../assets/img/custom/parsa2.png" width="250" style="align: left">
 
-<img src="../assets/img/custom/parsa2.png" width="250" style="align: left"> 
-
-### Parsa Rajabi 
+### Parsa Rajabi
 
 Parsa oversees the team and leads the research team. Learn more about him [here](https://parsa-rajabi.github.io).
 
-
-
 ## Team Members
 
-One of the most unique aspects of Learnification Labs is its diversity of its team members, who come from different academic institutions across BC, Canada. We're always [looking for new members](../_pages/contact.md) to join our team, should there be a fit with our ongoing projects. 
+One of the most unique aspects of Learnification Labs is its diversity of its team members, who come from different academic institutions across BC, Canada. We're always [looking for new members](../_pages/contact.md) to join our team, should there be a fit with our ongoing projects.
 
 In alphabetical order:
 
@@ -35,8 +32,8 @@ In alphabetical order:
 - Tsogt Bat-lder (UBC)
 - Yujie Peng (Langara)
 
-
 ## Alumni
+
 - Alrick Vincent (UBC, 2023)
 - Archita Gattani (UBC, 2023)
 - Eitan Barylko (SFU, 2023)
@@ -47,8 +44,3 @@ In alphabetical order:
 - Micah Baker (SFU, 2023)
 - Nakul Bansal (SFU, 2023)
 - Sehajvir (Sehaj) Singh Pannu (UBC, 2023)
-
-
-
-
-
