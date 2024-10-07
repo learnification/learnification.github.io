@@ -37,4 +37,4 @@ To get started, choose the appropriate `BugsyPrompt` version from below and copy
 
 ## Disclaimer ⚠️
 
-Bugsy Prompt is designed to supplement learning and should not replace official academic resources or instructors. Always verify critical information with your teaching team and use Bugsy as an additional learning tool. This project is for educational purposes and is not endorsed by any academic institution. Please use it responsibly for supplemental learning.
+BugsyPrompt is designed to supplement learning and should not replace official academic resources or instructors. Always verify critical information with your teaching team and use Bugsy as an additional learning tool. This project is for educational purposes and is not endorsed by any academic institution. Please use it responsibly for supplemental learning.
