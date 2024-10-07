@@ -8,12 +8,10 @@ nav_order: 2
 ---
 
 ## Co-pilot Grading Tool
- 
+
 The Copilot Grading Tool (CGT) is a web plugin designed to assist teachers and teaching assistants in grading student work more efficiently. Powered by advanced Large Language Models (LLMs), the tool analyzes student submissions and delivers detailed feedback aligned with the instructor’s grading rubric. CGT is built to seamlessly integrate with widely-used learning management systems (LMS) such as Canvas, ensuring easy incorporation into existing workflows.
 
-The priority of CGT is ensuring privacy, ethical, and responsible use of AI. The tool anonymizes all student submissions before processing and does not store any student data on remote servers. 
-
-<!-- <img src="/assets/img/custom/CGT.gif" width="500"/> -->
+The priority of CGT is ensuring privacy, ethical, and responsible use of AI. The tool anonymizes all student submissions before processing and does not store any student data on remote servers.
 
 [Check out an early prototype of CGT in action (gif)](/assets/img/custom/CGT.gif)
 
@@ -23,21 +21,21 @@ The priority of CGT is ensuring privacy, ethical, and responsible use of AI. The
 
 The priority of this project to develop a set of best practices for pre-processing and structuring prompts to maximize the accuracy and relevance of AI-generated materials in educational contexts. This project is at the heart of all projects at Learnification Labs.
 
-Early experiments have led us to develop BugsyPrompt. 
+Early experiments have led us to develop BugsyPrompt.
 
 ## Automated PrairieLearn Question Generation
 
-[PrairieLearn](https://www.prairielearn.com/) (PL) is an online assessment and learning system that empowers instructors to create robust educational resources for students. In the process of developing a new Web Development PL-based course, we're exploring the integration of LLMs to develop a new pipeline for generating personalized feedback and hints for students. 
+[PrairieLearn](https://www.prairielearn.com/) (PL) is an online assessment and learning system that empowers instructors to create robust educational resources for students. In the process of developing a new Web Development PL-based course, we're exploring the integration of LLMs to develop a new pipeline for generating personalized feedback and hints for students.
 
 The priority of this project is to improve accuracy and relevance of AI-generated materials in our PL-based course pipeline.
 
-## Edu-val: Peer Review and Evaluation 
+## Edu-val: Peer Review and Evaluation
 
 Canvas's [built-in peer review feature](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-peer-review-assignments-in-a-course/ta-p/697) feature has many limitations. Specifically, it lacks the ability to assign peer reviews for group-based assessments, which is a common practice in many educational settings. Additionally, the feature does not allow for any peer evaluation or grading, which is an essential aspect of group-based learning.
 
-Educational Evaluation (Edu-val) is a web-based platform to solve these shortcomings. This tool is designed to streamline the peer review and evaluation process for group-based assignments. The tool is built to resemble canvas and allow students to peer review each other's work, provide feedback, and evaluate their peers' submissions. 
+Educational Evaluation (Edu-val) is a web-based platform to solve these shortcomings. This tool is designed to streamline the peer review and evaluation process for group-based assignments. The tool is built to resemble canvas and allow students to peer review each other's work, provide feedback, and evaluate their peers' submissions.
 
-The goal of this project to improve the peer review and evaluation process for group-based assignments in an educational settings. 
+The goal of this project to improve the peer review and evaluation process for group-based assignments in an educational settings.
 
 ## AI-driven Computational Thinking Exercises
 
