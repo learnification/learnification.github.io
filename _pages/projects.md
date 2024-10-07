@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /projects/
-title: Active Projects
+title: Projects
 description: A list of active projects we're working on.
 nav: true
 nav_order: 2
 ---
 
-## Co-pilot Grading Tool
+## Co-pilot Grading Tool <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/react.svg" width="50" height="50">
+
 
 The Copilot Grading Tool (CGT) is a web plugin designed to assist teachers and teaching assistants in grading student work more efficiently. Powered by advanced Large Language Models (LLMs), the tool analyzes student submissions and delivers detailed feedback aligned with the instructor’s grading rubric. CGT is built to seamlessly integrate with widely-used learning management systems (LMS) such as Canvas, ensuring easy incorporation into existing workflows.
 
@@ -45,6 +46,18 @@ A project goal is to develop a set of guidelines to assess LLM-based CT question
 
 ## Gamified Geeks: Practice Coding Platform
 
-Gamified Geeks is an interactive learning platform that combines gamification pedagogy with AI-driven question generation to allow students to practice coding exercises in a fun and engaging way. The platform offers a variety of coding challenges, ranging from beginner to advanced levels, and provides instant feedback to help students improve their coding skills.
+Gamified Geeks (GG) is an interactive learning platform that combines gamification pedagogy with AI-driven question generation to allow students to practice coding exercises in a fun and engaging way. The platform offers a variety of coding challenges, ranging from beginner to advanced levels, and provides instant feedback to help students improve their coding skills.
 
 The project focus is on fine-turning the LLM-based question generation system with a gamified interface to promote active learning and engagement among students.
+
+## Version-wise: Learning Git Made Fun
+
+[LearningGitBranching](https://learngitbranching.js.org/) is a web-based platform that provides an interactive and engaging way to learn Git. The platform offers a variety of commands and challenges to help students understand the fundamentals of Git, such as branching, merging, and rebasing. 
+
+One of the limitations of the platform is the lacks of personalized learning features. As part of this project, we are exploring the integration of Large Language Models (LLMs) to provide personalized feedback and hints to students based on their progress and performance. The goal is to improve the learning experience and effectiveness of the platform by tailoring the content to individual student needs.
+
+---
+
+### Technology Stack
+
+Most, if not all, of our projects are built using MERN stack (MySQL, Express.js, React, Node.js). 

@@ -14,6 +14,6 @@ profile:
   # <p>Your City, State 12345</p>
 ---
 
-A research and development lab focused on creating innovative learning solutions for Computer Science education with a mission to make learning fun, engaging, and accessible to all. With the rise of AI tools, our team has been exploring new ways to use Large Language Models (LLMs) in a responsible, ethical and sustainable way to improve the teaching and learning experience. Check out out ongoing projects and resources via the menu above.
+A research and development lab focused on creating innovative learning solutions for Computer Science Education with a mission to make learning fun, engaging, and accessible to all. In response to the rise of AI tools, our team has been exploring new ways to use Large Language Models (LLMs) in a responsible, ethical and sustainable way to improve the teaching and learning experience. Check out [our ongoing projects](active-projects.md) for more information.
 
-We are always looking for collaborators, contributors, and partners to join us in our mission. If you are interested in working with us, feel free to reach out.
+We are always looking for collaborators, contributors, and industry partners to join us in our mission. If you are interested in working with us, feel free to [reach out](../_pages/contact.md).
