@@ -53,7 +53,7 @@ The project focus is on fine-turning the LLM-based question generation system wi
 
 [LearningGitBranching](https://learngitbranching.js.org/) is a web-based platform that provides an interactive and engaging way to learn Git. The platform offers a variety of commands and challenges to help students understand the fundamentals of Git, such as branching, merging, and rebasing.
 
-One of the limitations of the platform is the lacks of personalized learning features. As part of this project, we are exploring the integration of Large Language Models (LLMs) to provide personalized feedback and hints to students based on their progress and performance. The goal is to improve the learning experience and effectiveness of the platform by tailoring the content to individual student needs.
+One of the limitations of the platform is the lack of personalized learning features. With Version-wise, we are exploring the integration of Large Language Models (LLMs) to provide personalized feedback and hints to students based on their progress and performance. The goal is to improve the learning experience and effectiveness of the platform by tailoring the content to individual student needs.
 
 ---
 
