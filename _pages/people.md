@@ -17,7 +17,7 @@ Parsa oversees the team and leads the research team. Learn more about him [here]
 
 ## Team Members
 
-One of the most unique aspects of Learnification Labs is the diversity of its team members, who come from different academic institutions across BC, Canada. We're always looking for new members to [join our team]((../_pages/contact.md)), should there be a fit with our ongoing projects.
+One of the most unique aspects of Learnification Labs is the diversity of its team members, who come from different academic institutions across BC, Canada. We're always looking for new members to [join our team](contact), should there be a fit with our ongoing projects.
 
 In alphabetical order:
 
