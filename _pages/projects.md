@@ -31,7 +31,7 @@ The priority of this project is to improve accuracy and relevance of AI-generate
 
 ## Edu-val: Peer Review and Evaluation
 
-Canvas's [built-in peer review feature](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-peer-review-assignments-in-a-course/ta-p/697) feature has many limitations. Specifically, it lacks the ability to assign peer reviews for group-based assessments, which is a common practice in many educational settings. Additionally, the feature does not allow for any peer evaluation or grading, which is an essential aspect of group-based learning.
+Canvas's [built-in peer review feature](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-use-peer-review-assignments-in-a-course/ta-p/697) has many limitations. Specifically, it lacks the ability to assign peer reviews for group-based assessments, which is a common practice in many educational settings. Additionally, the feature does not allow for any peer evaluation or grading, which is an essential aspect of group-based learning.
 
 Educational Evaluation (Edu-val) is a web-based platform to solve these shortcomings. This tool is designed to streamline the peer review and evaluation process for group-based assignments. The tool is built to resemble canvas and allow students to peer review each other's work, provide feedback, and evaluate their peers' submissions.
 
