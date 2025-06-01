@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-Prompt Engineering has become one of the latest trends in the field of AI, thanks to the recent advancement in generative models. In order to improve the interaction and engagement of students with the learning material, we have developed an AI wrapper called BugsyPrompt. While Bugsy is not a full-fledged chatbot, it is a simple wrapper/base-prompt that can be used to set the scene for a more interactive learning experience.
+Prompt Engineering has become one of the latest trends in the field of AI, thanks to the recent advancement in generative models. Building on the prompting strategy used by [Dr. Roman Krems](https://chem.ubc.ca/roman-krems) (UBC), we created BugsyPrompt, an AI wrapper designed to enhance student interaction with course content. While Bugsy is not a full-fledged chatbot, it is a simple wrapper/base-prompt that can be used to set the scene for a more interactive learning experience.
 
 ## Features
 
