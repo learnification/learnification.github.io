@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /contact/
+permalink: /contact.md/
 title: Contact
 description: "Get in touch with us."
 nav: true
