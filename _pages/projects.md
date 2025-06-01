@@ -9,7 +9,7 @@ nav_order: 2
 
 ## Co-grading Tool <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/refs/heads/6.x/svgs/brands/react.svg" width="50" height="50">
 
-The Co-grading Grading Tool (CGT) is a web plugin designed to assist teachers and teaching assistants in grading student work more efficiently. Powered by advanced Large Language Models (LLMs), the tool analyzes student submissions and delivers detailed feedback aligned with the instructor’s grading rubric. CGT is built to seamlessly integrate with widely-used learning management systems (LMS) such as Canvas, ensuring easy incorporation into existing workflows.
+The Co-grading Tool (CGT) is a web plugin designed to assist teachers and teaching assistants in grading student work more efficiently. Powered by advanced Large Language Models (LLMs), the tool analyzes student submissions and delivers detailed feedback aligned with the instructor’s grading rubric. CGT is built to seamlessly integrate with widely-used learning management systems (LMS) such as Canvas, ensuring easy incorporation into existing workflows.
 
 The priority of CGT is ensuring privacy, ethical, and responsible use of AI. The tool anonymizes all student submissions before processing and does not store any student data on remote servers.
 
