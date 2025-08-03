@@ -29,7 +29,7 @@ In alphabetical order:
 - Maahika Gupta (UofT)
 - Matt Hamilton (SFU)
 - Pardeep Ranouta (SFU)
-- Taran Davarinejad (SFU)
+- Saad Usmani (SFU)
 - Treyton Rolleman (SFU)
 
 ## Alumni
@@ -50,4 +50,5 @@ In alphabetical order:
 - Sean Brown (SFU, 2024) 
 - Sehajvir (Sehaj) Singh Pannu (UBC, 2023)
 - Tsogt Bat-lder (UBC, 2024)
+- Taran Davarinejad (SFU, 2025)
 - Yujie Peng (Langara, 2023-24)
